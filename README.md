@@ -1,6 +1,6 @@
 # Cognitive_Azure_examples
-Exemplos de uso de serviços Cognitivos Azure
+Exemplos de uso de serviços Cognitivos Azure.
 
-## Testando edição do Readme
+## Testando edição do Readme com o Visual Studio Online do GitHub
 
-Aqui é o teste
+Vamos ver se salva direito.
