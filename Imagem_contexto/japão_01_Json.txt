@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "5dbf89aa-82e0-4af1-86b7-98328a3bf5d4",
+  "content-length": "157",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a path through a bamboo forest",
+    "confidence": 0.7524222135543823
+  },
+  "metadata": {
+    "width": 693,
+    "height": 523
+  }
+}

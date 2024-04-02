@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "b0b0c5fb-b3c5-4d9c-ad1c-539cabb994ae",
+  "content-length": "160",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "Iguazu Falls with trees around it",
+    "confidence": 0.6558591723442078
+  },
+  "metadata": {
+    "width": 691,
+    "height": 382
+  }
+}

@@ -1,0 +1,131 @@
+Face #1
+Face mask: no
+Face #2
+Face mask: no
+Face #3
+Face mask: no
+Face #4
+Face mask: no
+Face #5
+Face mask: no
+Face #6
+Face mask: no
+Face #7
+Face mask: no
+Face #8
+Face mask: no
+Face #9
+Face mask: no
+Face #10
+Face mask: no
+Face #11
+Face mask: no
+Face #12
+Face mask: no
+Face #13
+Face mask: no
+Face #14
+Face mask: no
+Face #15
+Face mask: no
+Face #16
+Face mask: no
+Face #17
+Face mask: no
+Face #18
+Face mask: no
+Face #19
+Face mask: no
+Face #20
+Face mask: no
+Face #21
+Face mask: no
+Face #22
+Face mask: no
+Face #23
+Face mask: no
+Face #24
+Face mask: no
+Face #25
+Face mask: no
+Face #26
+Face mask: no
+Face #27
+Face mask: no
+Face #28
+Face mask: no
+Face #29
+Face mask: no
+Face #30
+Face mask: no
+Face #31
+Face mask: no
+Face #32
+Face mask: no
+Face #33
+Face mask: no
+Face #34
+Face mask: no
+Face #35
+Face mask: no
+Face #36
+Face mask: no
+Face #37
+Face mask: no
+Face #38
+Face mask: no
+Face #39
+Face mask: no
+Face #40
+Face mask: no
+Face #41
+Face mask: no
+Face #42
+Face mask: no
+Face #43
+Face mask: no
+Face #44
+Face mask: no
+Face #45
+Face mask: no
+Face #46
+Face mask: no
+Face #47
+Face mask: no
+Face #48
+Face mask: no
+Face #49
+Face mask: no
+Face #50
+Face mask: no
+Face #51
+Face mask: no
+Face #52
+Face mask: no
+Face #53
+Face mask: no
+Face #54
+Face mask: no
+Face #55
+Face mask: no
+Face #56
+Face mask: no
+Face #57
+Face mask: no
+Face #58
+Face mask: no
+Face #59
+Face mask: no
+Face #60
+Face mask: no
+Face #61
+Face mask: no
+Face #62
+Face mask: no
+Face #63
+Face mask: no
+Face #64
+Face mask: no
+Face #65
+Face mask: yes
+Face mask covering nose and mouth: no
