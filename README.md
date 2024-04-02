@@ -14,6 +14,6 @@ Para utilizar este serviço também utilizei um grupo de recursos na região Bra
 
 ## Serviço de detecção de contexto da imagem
 
-Para este serviço funcionar, tive que selecionar um grupo de recursos na região dos EUA, acho que deve ser por causa da lingua utilizada (talvez não tenham disponível em português do Brasil ainda hoje é 02/04/2024).
+Para este serviço funcionar, tive que selecionar um grupo de recursos na região dos EUA, acho que deve ser por causa da lingua utilizada (talvez não tenham disponível em português do Brasil ainda hoje é 02/04/2024). Os arquivos encontram-se no diretório Imagem_contexto.
 
 Observação interessante: Alguns lugares são conhecidos pela plataforma como o 'Hallstatt' que fica na Áustria e cataratas do Iguaçu. Já outros como fervedouro no Brasil (Jalapão) foram classificados apenas como piscina, fica a dica para o pessoal da Microsoft visitar o Jalapão, é muito legal o lugar, hehehe.
